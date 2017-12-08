@@ -22,6 +22,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Golem Effect](#golem-effect)
   - [Capgras Syndrome](#capgras-syndrome)
   - [Hawthorne Effect](#hawthorne-effect)
+  - [Placebo Effect](#placebo-effect)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -176,6 +177,17 @@ the anecdote, you can throw away the data."
 
 [R: verywell.com](https://www.verywell.com/what-is-the-hawthorne-effect-2795234)
 
+#### [Placebo Effect](https://en.wikipedia.org/wiki/Placebo)
+
+> Belief in a treatment may be enough to change the course of a person's physical illness.
+
+A placebo is a substance or treatment with no active therapeutic effect. A placebo may be given to a person in order to deceive the recipient into thinking that it is an active treatment. In drug testing and medical research, a placebo can be made to resemble an active medication or therapy so that it functions as a control; this is to prevent the recipient(s) and/or others from knowing (with their consent) whether a treatment is active or inactive, as expectations about efficacy can influence results. This psychological phenomenon, in which the recipient perceives an improvement in condition due to personal expectations, rather than the treatment itself, is known as the placebo effect or placebo response. Research about the effect is ongoing.
+
+[R: webmd.com](https://www.webmd.com/pain-management/what-is-the-placebo-effect)
+
+[R: health.harvard.edu](https://www.health.harvard.edu/mental-health/the-power-of-the-placebo-effect)
+
+[R: betterhealth.vic.gov.au](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/placebo-effect)
 
 ***
 
