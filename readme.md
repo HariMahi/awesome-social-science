@@ -23,6 +23,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Capgras Syndrome](#capgras-syndrome)
   - [Hawthorne Effect](#hawthorne-effect)
   - [Placebo Effect](#placebo-effect)
+  - [Mere-exposure Effect](#mere-exposure-effect)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -188,6 +189,19 @@ A placebo is a substance or treatment with no active therapeutic effect. A place
 [R: health.harvard.edu](https://www.health.harvard.edu/mental-health/the-power-of-the-placebo-effect)
 
 [R: betterhealth.vic.gov.au](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/placebo-effect)
+
+#### [Mere-exposure Effect](https://en.wikipedia.org/wiki/Mere-exposure_effect)
+
+> Repeated exposure of something leads to a more positive feeling about it.
+
+The mere-exposure effect is a psychological phenomenon by which people tend to develop a preference for things merely because they are familiar with them. In social psychology, this effect is sometimes called the familiarity principle. The effect has been demonstrated with many kinds of things, including words, Chinese characters, paintings, pictures of faces, geometric figures, and sounds. In studies of interpersonal attraction, the more often a person is seen by someone, the more pleasing and likeable that person appears to be.
+
+[R: psychcentral.com](https://psychcentral.com/encyclopedia/mere-exposure-effect/)
+
+[R: socialpsychonline.com](http://socialpsychonline.com/2016/03/the-mere-exposure-effect/)
+
+[R: psychologytoday.com](https://www.psychologytoday.com/blog/ulterior-motives/200811/know-me-is-me-i-mere-exposure)
+
 
 ***
 
