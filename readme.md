@@ -29,6 +29,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Munchausen syndrome](#munchausen-syndrome)
   - [Munchausen syndrome by proxy](#munchausen-syndrome-by-proxy)
   - [Zeigarnik Effect](#zeigarnik-effect)
+  - [Boanthropy](#boanthropy)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -311,6 +312,20 @@ undisturbed.
 [R: goodtherapy.org](https://www.goodtherapy.org/blog/psychpedia/zeigarnik-effect)
 
 [On Finished and Unfinished Tasks (Bluma Zeigarnik, 1927)](http://archive.is/rZC00)
+
+#### [Boanthropy](https://en.wikipedia.org/wiki/Boanthropy)
+
+> Human believes himself or herself to be a bovine.
+
+Boanthropy is a strange delusional disorder during which a person imagines him- or herself to be a cow or a bull. The disorder usually begins as a sort of dream, and then takes over a person entirely, eventually becoming a mania. It is also possible that this state can be caused by hypnosis, provided that a person is susceptible to it.
+
+![image](https://user-images.githubusercontent.com/29461633/33806023-845d9656-dde7-11e7-91fd-94111095d11f.png)
+
+[R: psychologyart.wordpress.com](https://psychologyart.wordpress.com/2016/03/23/boanthrophy/)
+
+[R: ispectrummagazine.com](http://ispectrummagazine.com/wp/?p=2459)
+
+[R: theinfoscience.blogspot.in](http://theinfoscience.blogspot.in/2015/12/boanthropy.html)
 
 ***
 
