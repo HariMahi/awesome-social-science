@@ -209,7 +209,7 @@ The mere-exposure effect is a psychological phenomenon by which people tend to d
 
 Boanthropy is a strange delusional disorder during which a person imagines him- or herself to be a cow or a bull. The disorder usually begins as a sort of dream, and then takes over a person entirely, eventually becoming a mania. It is also possible that this state can be caused by hypnosis, provided that a person is susceptible to it.
 
-[R: pharmaceutical-journal.com](http://www.pharmaceutical-journal.com/opinion/blogs/nebuchadnezzar-and boanthropy/11123165.blog)
+[R: psychologyart.wordpress.com](https://psychologyart.wordpress.com/2016/03/23/boanthrophy/)
 
 ***
 
