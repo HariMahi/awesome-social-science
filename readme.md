@@ -25,6 +25,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Placebo Effect](#placebo-effect)
   - [Mere-exposure Effect](#mere-exposure-effect)
   - [Prosopagnosia](#prosopagnosia)
+  - [Ganser syndrome](#ganser-syndrome)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -213,6 +214,19 @@ Prosopagnosia, also called face blindness, is a cognitive disorder of face perce
 
 [R: National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Prosopagnosia-Information-Page)
 
+#### [Ganser syndrome](https://en.wikipedia.org/wiki/Ganser_syndrome)
+
+> Patient responds to questions with an incorrect answer
+
+Read more: http://www.minddisorders.com/Flu-Inv/Ganser-s-syndrome.html#ixzz51XLqg6TU
+
+Ganser syndrome is a rare dissociative disorder previously classified as a factitious disorder. It is characterized by nonsensical or wrong answers to questions or doing things incorrectly, other dissociative symptoms such as fugue, amnesia or conversion disorder, often with visual pseudohallucinations and a decreased state of consciousness.
+
+[R: webmd.com](https://www.webmd.com/mental-health/ganser-syndrome#1)
+
+[R: minddisorders.com](http://www.minddisorders.com/Flu-Inv/Ganser-s-syndrome.html)
+
+[R: emedicine.medscape.com](https://emedicine.medscape.com/article/287390-overview)
 ***
 
 ## License
