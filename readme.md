@@ -24,6 +24,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Hawthorne Effect](#hawthorne-effect)
   - [Placebo Effect](#placebo-effect)
   - [Mere-exposure Effect](#mere-exposure-effect)
+  - [Prosopagnosia](#prosopagnosia)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -201,6 +202,16 @@ The mere-exposure effect is a psychological phenomenon by which people tend to d
 [R: socialpsychonline.com](http://socialpsychonline.com/2016/03/the-mere-exposure-effect/)
 
 [R: psychologytoday.com](https://www.psychologytoday.com/blog/ulterior-motives/200811/know-me-is-me-i-mere-exposure)
+
+#### [Prosopagnosia](https://en.wikipedia.org/wiki/Prosopagnosia)
+
+> Prosopagnosia is a neurological disorder characterized by the inability to recognize faces.
+
+Prosopagnosia, also called face blindness, is a cognitive disorder of face perception in which the ability to recognize familiar faces, including one's own face (self-recognition), is impaired, while other aspects of visual processing (e.g., object discrimination) and intellectual functioning (e.g., decision making) remain intact.
+
+[R: prosopagnosiaresearch.org](https://prosopagnosiaresearch.org/index/information)
+
+[R: National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Prosopagnosia-Information-Page)
 
 ***
 
