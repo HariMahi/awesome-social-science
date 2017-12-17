@@ -35,6 +35,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Trichotillomania](#trichotillomania)
   - [Schizophrenia](#schizophrenia)
   - [Borderline Personality Disorder](#borderline-personality-disorder-bpd)
+  - [Ganser syndrome](#ganser-syndrome)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -415,6 +416,21 @@ Therapy.
 [R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder/index.shtml)
 
 [R: psycom.net](https://www.psycom.net/depression.central.borderline.html)
+
+#### [Ganser syndrome](https://en.wikipedia.org/wiki/Ganser_syndrome)
+
+> Patient responds to questions with an incorrect answer
+
+Read more: http://www.minddisorders.com/Flu-Inv/Ganser-s-syndrome.html#ixzz51XLqg6TU
+
+Ganser syndrome is a rare dissociative disorder previously classified as a factitious disorder. It is characterized by nonsensical or wrong answers to questions or doing things incorrectly, other dissociative symptoms such as fugue, amnesia or conversion disorder, often with visual pseudohallucinations and a decreased state of consciousness.
+
+[R: webmd.com](https://www.webmd.com/mental-health/ganser-syndrome#1)
+
+[R: minddisorders.com](http://www.minddisorders.com/Flu-Inv/Ganser-s-syndrome.html)
+
+[R: emedicine.medscape.com](https://emedicine.medscape.com/article/287390-overview)
+
 
 ***
 
