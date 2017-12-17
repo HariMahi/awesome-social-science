@@ -212,6 +212,7 @@ Prosopagnosia, also called face blindness, is a cognitive disorder of face perce
 [R: prosopagnosiaresearch.org](https://prosopagnosiaresearch.org/index/information)
 
 [R: National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Prosopagnosia-Information-Page)
+[R: faceblind.org](https://www.faceblind.org/research/)
 
 ***
 
