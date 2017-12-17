@@ -25,7 +25,6 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Placebo Effect](#placebo-effect)
   - [Mere-exposure Effect](#mere-exposure-effect)
   - [Prosopagnosia](#prosopagnosia)
-  - [Ganser syndrome](#ganser-syndrome)
 
 ## Aphorisms / Adages / Epigrams
 
