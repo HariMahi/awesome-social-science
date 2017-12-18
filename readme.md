@@ -36,6 +36,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Schizophrenia](#schizophrenia)
   - [Borderline Personality Disorder](#borderline-personality-disorder-bpd)
   - [Prosopagnosia](#prosopagnosia)
+  - [Ganser syndrome](#ganser-syndrome)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -430,6 +431,19 @@ context. There have been no treatment methods discovered as of now.
 [R: National Health Service](https://www.nhs.uk/conditions/face-blindness/)
 
 [R: National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Prosopagnosia-Information-Page) 
+
+#### [Ganser syndrome](https://en.wikipedia.org/wiki/Ganser_syndrome)
+
+> Patient responds to questions with an incorrect answer
+
+Ganser syndrome is a factitious disorder characterized by nonsensical 
+or wrong answers to questions or doing things incorrectly, other dissociative 
+symptoms such as fugue, amnesia or conversion disorder, often with visual 
+pseudohallucinations and a decreased state of consciousness.
+
+[R: emedicine.medscape.com](https://emedicine.medscape.com/article/287390-overview)
+
+[R: minddisorders.com](http://www.minddisorders.com/Flu-Inv/Ganser-s-syndrome.html)
 
 ***
 
