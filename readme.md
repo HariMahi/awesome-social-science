@@ -36,6 +36,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Schizophrenia](#schizophrenia)
   - [Borderline Personality Disorder](#borderline-personality-disorder-bpd)
   - [Prosopagnosia](#prosopagnosia)
+  - [Attention deficit hyperactivity disorder](#attention-deficit-hyperactivity-disorder)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -430,6 +431,21 @@ context. There have been no treatment methods discovered as of now.
 [R: National Health Service](https://www.nhs.uk/conditions/face-blindness/)
 
 [R: National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Prosopagnosia-Information-Page) 
+
+#### [Attention deficit hyperactivity disorder](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) [ADHD]
+
+> A chronic condition including attention difficulty, hyperactivity and impulsiveness
+
+Attention deficit hyperactivity disorder (ADHD) is a mental disorder of the 
+neurodevelopmental type. It is characterized by problems paying attention, 
+excessive activity, or difficulty controlling behavior which is not appropriate 
+for a person's age. The symptoms appear before a person is twelve years old, are 
+present for more than six months, and cause problems in at least two settings 
+(such as school, home, or recreational activities).
+
+[R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd/index.shtml)
+
+[R: medlineplus.gov](https://medlineplus.gov/attentiondeficithyperactivitydisorder.html)
 
 ***
 
