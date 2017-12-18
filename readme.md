@@ -431,6 +431,22 @@ context. There have been no treatment methods discovered as of now.
 
 [R: National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Prosopagnosia-Information-Page) 
 
+#### [Clinical lycanthropy](https://en.wikipedia.org/wiki/Clinical_lycanthropy)
+
+> Delusional belief that he/she have transformed into an animal
+
+Clinical lycanthropy is defined as a rare psychiatric syndrome that involves a 
+delusion that the affected person can transform into, has transformed into, or 
+is a non-human animal. Its name is associated with the mythical condition of lycanthropy, 
+a supernatural affliction in which humans are said to physically shapeshift into 
+wolves. It is purported to be a rare disorder.
+
+[R: werewolves.com](https://www.werewolves.com/clinical-lycanthropy/)
+
+[R: the-gist.org](https://the-gist.org/2015/08/clinical-lycanthropy-where-psychiatry-and-mythology-collide/)
+
+[R: livescience.com](https://www.livescience.com/44875-werewolves-in-psychiatry.html)
+
 ***
 
 ## License
