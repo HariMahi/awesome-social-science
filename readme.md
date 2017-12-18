@@ -416,6 +416,18 @@ Therapy.
 
 [R: psycom.net](https://www.psycom.net/depression.central.borderline.html)
 
+#### [Multiple Personality Syndrome](https://en.wikipedia.org/wiki/Dissociative_identity_disorder)
+
+> A disorder characterised by the presence of two or more distinct personality states
+
+Dissociative identity disorder (DID), also known as multiple personality disorder,[2] is a mental disorder characterized by at least two distinct and relatively enduring identities or dissociated personalities. These states alternately show in a person's behavior, accompanied by memory impairment for important information not explained by ordinary forgetfulness. 
+
+[R: PsychologyToday](https://www.psychologytoday.com/conditions/dissociative-identity-disorder-multiple-personality-disorder)
+
+[R: webmd.com](https://www.webmd.com/mental-health/dissociative-identity-disorder-multiple-personality-disorder#1)
+
+[R: psycom.net](https://www.psycom.net/mchugh.html)
+
 ***
 
 ## License
