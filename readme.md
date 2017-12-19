@@ -36,6 +36,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Schizophrenia](#schizophrenia)
   - [Borderline Personality Disorder](#borderline-personality-disorder-bpd)
   - [Prosopagnosia](#prosopagnosia)
+  - [Acute Stress Disorder](#Acute-stress-disorder)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -430,6 +431,20 @@ context. There have been no treatment methods discovered as of now.
 [R: National Health Service](https://www.nhs.uk/conditions/face-blindness/)
 
 [R: National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Prosopagnosia-Information-Page) 
+
+#### [Acute Stress Disorder](https://en.wikipedia.org/wiki/Acute_stress_reaction)
+
+> As a response to the traumatic event, the individual develops dissociative symptoms
+
+Acute stress reaction (also called acute stress disorder, psychological shock, 
+mental shock, or simply shock) is a psychological condition arising in response 
+to a terrifying or traumatic event, or witnessing a traumatic event that induces 
+a strong emotional response within the individual. It should not be confused with
+the unrelated circulatory condition of shock/hypoperfusion. 
+
+[R: psychologytoday.com](https://www.psychologytoday.com/conditions/acute-stress-disorder)
+
+[R: healthline.com](https://www.healthline.com/health/acute-stress-disorder)
 
 ***
 
