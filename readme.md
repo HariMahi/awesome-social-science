@@ -36,6 +36,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Schizophrenia](#schizophrenia)
   - [Borderline Personality Disorder](#borderline-personality-disorder-bpd)
   - [Prosopagnosia](#prosopagnosia)
+  - [Autism](#autism)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -430,6 +431,22 @@ context. There have been no treatment methods discovered as of now.
 [R: National Health Service](https://www.nhs.uk/conditions/face-blindness/)
 
 [R: National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Prosopagnosia-Information-Page) 
+
+#### [Autism](https://en.wikipedia.org/wiki/Autism)
+
+> A serious developmental disorder that impairs the ability to communicate and interact
+
+Autism is a developmental disorder characterized by troubles with social 
+interactionand communication. Often there is also restricted and repetitive 
+behavior.Parents usually notice signs in the first two or three years of their
+child's life. These signsoften develop gradually, though some children with 
+autism reach their developmental milestones at a normal pace and then worsen.
+
+[R: autismspeaks.org](https://www.autismspeaks.org/what-autism)
+
+[R: autism.org.uk](http://www.autism.org.uk/about/what-is/asd.aspx)
+
+[R: autism-society.org](http://www.autism-society.org/what-is/)
 
 ***
 
