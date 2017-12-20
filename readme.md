@@ -436,10 +436,11 @@ context. There have been no treatment methods discovered as of now.
 
 > Patient responds to questions with an incorrect answer
 
-Ganser syndrome is a factitious disorder characterized by nonsensical 
-or wrong answers to questions or doing things incorrectly, other dissociative 
-symptoms such as fugue, amnesia or conversion disorder, often with visual 
-pseudohallucinations and a decreased state of consciousness.
+Ganser syndrome is a rare dissociative disorder previously classified as a 
+factitious disorder. It is characterized by nonsensical or wrong answers to
+questions or doing things incorrectly, other dissociative symptoms such as fugue, 
+amnesia or conversion disorder, often with visual pseudohallucinations and a 
+decreased state of consciousness.
 
 [R: emedicine.medscape.com](https://emedicine.medscape.com/article/287390-overview)
 
