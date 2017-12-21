@@ -36,6 +36,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Schizophrenia](#schizophrenia)
   - [Borderline Personality Disorder](#borderline-personality-disorder-bpd)
   - [Prosopagnosia](#prosopagnosia)
+  - [Hypochondria](#hypochondria)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -430,6 +431,19 @@ context. There have been no treatment methods discovered as of now.
 [R: National Health Service](https://www.nhs.uk/conditions/face-blindness/)
 
 [R: National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Prosopagnosia-Information-Page) 
+
+#### [Hypochondria](https://en.wikipedia.org/wiki/Hypochondriasis)
+
+> Obsession with the idea of having a serious but undiagnosed medical condition
+
+Hypochondriasis or hypochondria is a condition in which a person is inordinately 
+worried about having a serious illness.  It has been claimed that this debilitating 
+condition results from an inaccurate perception of the condition of body or mind 
+despite the absence of an actual medical diagnosis.
+
+[R: PsychologToday](https://www.psychologytoday.com/blog/life-after-50/201703/hypochondria)
+
+[R: medicalnewstoday.com](https://www.medicalnewstoday.com/articles/9983.php)
 
 ***
 
