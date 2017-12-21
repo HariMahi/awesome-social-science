@@ -36,6 +36,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Schizophrenia](#schizophrenia)
   - [Borderline Personality Disorder](#borderline-personality-disorder-bpd)
   - [Prosopagnosia](#prosopagnosia)
+  - [Kleptomania](#kleptomania)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -430,6 +431,20 @@ context. There have been no treatment methods discovered as of now.
 [R: National Health Service](https://www.nhs.uk/conditions/face-blindness/)
 
 [R: National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Prosopagnosia-Information-Page) 
+
+#### [Kleptomania](https://en.wikipedia.org/wiki/Kleptomania)
+
+> An impulse control disorder that results in an irresistible urge to steal
+
+Kleptomania or klopemania is the inability to refrain from the urge 
+for stealing items and is usually done for reasons other than personal
+use or financial gain. First described in 1816, kleptomania is classified
+in psychiatry as an impulse control disorder.
+
+[R: PsychologyToday](https://www.psychologytoday.com/conditions/kleptomania)
+
+[R: minddisorders.com](http://www.minddisorders.com/Kau-Nu/Kleptomania.html)
+
 
 ***
 
