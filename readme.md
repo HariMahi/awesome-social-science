@@ -36,7 +36,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Schizophrenia](#schizophrenia)
   - [Borderline Personality Disorder](#borderline-personality-disorder-bpd)
   - [Prosopagnosia](#prosopagnosia)
-  - [Attention Deficit Hyperactivity Disorder](#attention-deficit-hyperactivity-disorder)
+  - [Attention Deficit Hyperactivity Disorder](#attention-deficit-hyperactivity-disorder-adhd)
 
 ## Aphorisms / Adages / Epigrams
 
