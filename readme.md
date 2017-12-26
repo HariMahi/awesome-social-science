@@ -445,7 +445,9 @@ present for more than six months, and cause problems in at least two settings
 
 [R: National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd/index.shtml)
 
-[R: medlineplus.gov](https://medlineplus.gov/attentiondeficithyperactivitydisorder.html)
+[R: cdc.gov](https://www.cdc.gov/ncbddd/adhd/index.html)
+
+[R: understood.org](https://www.understood.org/en/learning-attention-issues/child-learning-disabilities/add-adhd/understanding-adhd)
 
 ***
 
