@@ -437,13 +437,17 @@ context. There have been no treatment methods discovered as of now.
 > An impulse control disorder that results in an irresistible urge to steal
 
 Kleptomania or klopemania is the inability to refrain from the urge 
-for stealing items and is usually done for reasons other than personal
+of stealing items and is usually done for reasons other than personal
 use or financial gain. First described in 1816, kleptomania is classified
 in psychiatry as an impulse control disorder.
 
 [R: PsychologyToday](https://www.psychologytoday.com/conditions/kleptomania)
 
 [R: minddisorders.com](http://www.minddisorders.com/Kau-Nu/Kleptomania.html)
+
+[R: addictionhope.com](https://www.addictionhope.com/mood-disorder/kleptomania/)
+
+[R: healthline.com](https://www.healthline.com/health/stealing)
 
 
 ***
