@@ -442,11 +442,11 @@ behavior.Parents usually notice signs in the first two or three years of their
 child's life. These signsoften develop gradually, though some children with 
 autism reach their developmental milestones at a normal pace and then worsen.
 
-[R: autismspeaks.org](https://www.autismspeaks.org/what-autism)
+[R: medicalnewstoday.com](https://www.medicalnewstoday.com/info/autism)
 
 [R: autism.org.uk](http://www.autism.org.uk/about/what-is/asd.aspx)
 
-[R: autism-society.org](http://www.autism-society.org/what-is/)
+[R: nhs.uk](https://www.nhs.uk/conditions/autism/)
 
 ***
 
