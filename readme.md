@@ -445,11 +445,6 @@ in psychiatry as an impulse control disorder.
 
 [R: minddisorders.com](http://www.minddisorders.com/Kau-Nu/Kleptomania.html)
 
-[R: addictionhope.com](https://www.addictionhope.com/mood-disorder/kleptomania/)
-
-[R: healthline.com](https://www.healthline.com/health/stealing)
-
-
 ***
 
 ## License
